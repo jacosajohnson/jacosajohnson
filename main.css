@@ -1,0 +1,12 @@
+#container {
+    font-family: 'Kameron', serif;
+}
+
+h1{
+    width: 100%;
+    height: 60px;
+    background-color: lightpink;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
