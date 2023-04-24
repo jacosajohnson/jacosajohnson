@@ -15,7 +15,7 @@ p{
   margin-left: 30px
 }
 
-.btn-group button{
+.buttons{
   background-color: lightpink;
   border: none;
   color: white;
@@ -25,6 +25,10 @@ p{
   display: inline-block;
   font-size: 16px;
   margin-left: 30px;
+}
+
+.action_btn {
+  display: inline-block;
 }
 
 img{
