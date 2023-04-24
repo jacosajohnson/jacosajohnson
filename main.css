@@ -11,8 +11,12 @@ h1{
     font-weight: bold;
 }
 
+p{
+  margin-left: 30px
+}
+
 button{
-  background-color: #4CAF50; /* Green */
+  background-color: lightpink;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -20,4 +24,9 @@ button{
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  margin-left: 30px;
+}
+
+img{
+  margin-left: 30px
 }
