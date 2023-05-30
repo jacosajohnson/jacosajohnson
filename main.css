@@ -46,14 +46,3 @@ a{
   width: 85%;
   margin: auto;
 }
-
-.nav-menu{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 60px;
-}
-
-.nav-branding{
-  font-size: 2rem;
-}
